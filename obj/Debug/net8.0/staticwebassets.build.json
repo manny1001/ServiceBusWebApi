@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v4fHdFGpNWTpcSZjmvO/IG8BaYtnRNTiL0oKtMlO3ho=",
+  "Source": "ServiceBusWebApi",
+  "BasePath": "_content/ServiceBusWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

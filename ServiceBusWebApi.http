@@ -1,0 +1,6 @@
+@ServiceBusWebApi_HostAddress = http://localhost:5204
+
+GET {{ServiceBusWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
