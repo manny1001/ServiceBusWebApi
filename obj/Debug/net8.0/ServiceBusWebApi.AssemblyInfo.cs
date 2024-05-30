@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServiceBusWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1627058321f0cb1e4027ed982e3f7d77e947a26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b028b05bb69a67d104fe86c0f813db2834dddbfd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServiceBusWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServiceBusWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
